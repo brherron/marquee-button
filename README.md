@@ -3,13 +3,13 @@
 ## install
 
 ```
-npm install marquee-button
+npm install react-marquee-button
 ```
 
 ## usage
 
 ```js
-import { Button } from 'marquee-button'
+import { Button } from 'react-marquee-button'
 
 function Home() {
 
