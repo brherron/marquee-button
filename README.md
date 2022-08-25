@@ -23,4 +23,4 @@ export default Home;
 
 ## license
 
-MIT. Copyright (c) [Feross Aboukhadijeh](http://feross.org).
+MIT. Copyright (c) [Beau Herron](https://beauherrondev.com).

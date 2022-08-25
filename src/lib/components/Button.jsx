@@ -1,15 +1,7 @@
 import React from "react";
-import "./Button.scss";
+import "./Button.css";
 
-// import PDF from '../../images/Resume.pdf'
-
-type ButtonProps = {
-  path: string;
-  text: string;
-  color?: string;
-};
-
-function Button({ path, text, color = "white" }: ButtonProps) {
+function Button({ path, text, color = "white" }) {
   return (
     <a
       href={path}
